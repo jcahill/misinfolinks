@@ -90,7 +90,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Google Fact Check](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/)	
 * [Facebook]()
 * [Mozilla Foundation]()		
-* [Indonesian Cyber Media Association]()			
+* [Indonesian Cyber Media Association](http://www.amsi.or.id)	
 * [Factual Democracy Project]()
 * [High level experts group on disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)	
 * [DFRlab](https://www.digitalsherlocks.org/dfrlab)	Atlantic council group working on Disinformation (Kings College)	

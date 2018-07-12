@@ -68,7 +68,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Trust Project](https://www.scu.edu/ethics/focus-areas/journalism-ethics/programs/the-trust-project/)
 * [Schema.org](http://schema.org/)
 * [News Quality Scoring Project](https://mondaynote.com/tagged/fake-news)
-* [News Tracker]()
+* [NewsTracker](https://www.newstracker.org)	Greater Washington Educational Telecommunications Association
 * [Vubble](https://www.vubblepop.com/)
 * [Veracity.ai](http://veracity.ai/)
 * [Factmata](http://factmata.com/)
